@@ -1,4 +1,4 @@
-# VOGUE 👗
+# LEGALIZE DREAM 👗
 
 A simple and modern **fashion e-commerce website** developed as a college project. Users can browse clothing products, search and filter products, add items to their cart, and proceed to checkout.
 
